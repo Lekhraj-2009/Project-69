@@ -61,3 +61,21 @@ body{
 .description{
     text-align: left;
 }
+.new_li{
+    text-align: left;
+    padding-bottom: 15px;
+    margin-top: 10px;
+}
+.new_li hr{
+    border-color: darkgrey;
+}
+.new_li img{
+    border-radius: 5px;
+    width: 600px;
+}
+.new_li p{
+    margin-top: 10px;
+}
+.contact_1 h5{
+    font-size: 12.2px;
+}
