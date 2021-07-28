@@ -79,3 +79,29 @@ body{
 .contact_1 h5{
     font-size: 12.2px;
 }
+.alumni{
+    cursor: pointer;
+}
+.alumni hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img-modal{
+    display: inline-block;
+}
+.p-modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+.img-alumni{
+    height: 300px;
+    width: 300px;
+}
+#footer{
+    height: 20px;
+    background-color: white;
+}
